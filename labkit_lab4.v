@@ -1,14 +1,14 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
+// Company: JoeCorp, a Joe Corporation
 // 
 // Create Date: 10/1/2015 V1.0
-// Design Name: 
+// Design Name: verilog_i2c
 // Module Name: labkit
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
-// Description: 
+// Description: real simple i2c implementation to get accelerations from mpu9250
 // 
 // Dependencies: 
 // 
